@@ -70,7 +70,8 @@ Please submit your work by making a pull request to the Github repository.
 The best design will accommodate compatibility with centralized API’s. If it were a PayPal contract you’d find relevant to share account activity similar to the following:
 
 **GET requests examples**
-Accounts: Activity changes on user “ACCO-123”
-Transfers: Updated status on the transfer “TRAN-123”
-Payment Methods: Card Expired “PAYM-123”
-Contacts: Lookup “CONT”.
+
+- Accounts: Activity changes on user “ACCO-123”
+- Transfers: Updated status on the transfer “TRAN-123”
+- Payment Methods: Card Expired “PAYM-123”
+- Contacts: Lookup “CONT”.
