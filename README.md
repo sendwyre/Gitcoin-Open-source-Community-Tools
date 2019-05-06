@@ -52,16 +52,22 @@ You have successfully completed this, when:
 
 **Flowchart**
 Can be scribbled on a whiteboard. Just needs to be legible. Use this as a check-in point for the competition. Can deliver feedback if it’s the right direction, etc…
+
 **Schema**
 Up to you to design.
+
 **Design explanation**
 Example breakdown (if helpful) Deliberately excluded & included with reasoning.
+
 **Security concerns**
 Dependencies, technical implementationrisks.
+
 **Time to market**
 How fast can it be executed on now to implement, AND for other developers in the future. Remember we’re targeting developers, and want to cater for the slowest member of the pack. Aka new developers to the space.
+
 **Target developer experience level**
 From 1-10. 1 being only use jsFiddle, 10 being Vitalik.
+
 **Submission**
 Please submit your work by making a pull request to the Github repository.
 
